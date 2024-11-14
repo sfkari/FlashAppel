@@ -31,8 +31,6 @@ L'application offre une solution pratique et intuitive pour recevoir des notific
 ![Image1](https://github.com/user-attachments/assets/e0d0c3d7-82ea-46dc-a668-55386fe59a2f)
 ![Image2](https://github.com/user-attachments/assets/7e3ae12c-4a04-4c41-91fb-03b6c3068174)
 
-https://github.com/user-attachments/assets/6a6d10be-a931-4ae1-a9fb-c6570c288252
 
-
-
+https://github.com/user-attachments/assets/61f01d12-39d7-49b8-83da-6e3bd655a511
 
