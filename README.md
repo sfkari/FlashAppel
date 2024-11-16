@@ -1,5 +1,5 @@
 
-**Introduction**
+#Introduction
 
 L'application Android présentée ici permet d'activer ou de désactiver l'éclairage du flash lors de la réception d'un appel entrant. Elle s'adresse à un large public, notamment aux personnes ayant des problèmes auditifs ou à celles qui souhaitent une notification visuelle supplémentaire lors de la réception d'un appel. Ce compte rendu détaille l'interface de l'application, ses fonctionnalités principales, ainsi que l'expérience utilisateur. 
 
@@ -28,8 +28,8 @@ L'application demande uniquement la permission d'accéder à la lumière du flas
 **Conclusion**
 L'application offre une solution pratique et intuitive pour recevoir des notifications visuelles via le flash lors des appels entrants. Elle est idéale pour les utilisateurs souhaitant une alerte visuelle, notamment dans des environnements bruyants. L'interface simple et la faible consommation de batterie en font un outil efficace et accessible.
 
-![Image1](https://github.com/user-attachments/assets/e0d0c3d7-82ea-46dc-a668-55386fe59a2f)
-![Image2](https://github.com/user-attachments/assets/7e3ae12c-4a04-4c41-91fb-03b6c3068174)
+![19784  Converti](https://github.com/user-attachments/assets/bfc8ea17-96ea-4460-8e53-98397e5db27e)
+
 
 
 https://github.com/user-attachments/assets/61f01d12-39d7-49b8-83da-6e3bd655a511
